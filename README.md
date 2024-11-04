@@ -2,14 +2,14 @@
 
 # LinkedIn Job Posting Analysis
 
-# Project Overview 
+## Project Overview 
 The project involves analyzing job postings data scraped from LinkedIn to gain insights into data analyst job market.
 The analysis is aimed at identifying trends in job titles,companies, and locations to help potential job seekers and businesses understand current hiring patterns.
 
 ## Objectives
--**Understand the demand for data analyst roles across different locations**.
--**Identify top companies hiring for data analyst positions**.
--**Analyze job titles to find common trends and specializations**.
+1. Understand the demand for data analyst roles across different locations.
+2. Identify top companies hiring for data analyst positions.
+3. Analyze job titles to find common trends and specializations**.
 
 ## Data Description
 The dataset used in this project was scraped from LinkedIn and includes the following columns:
@@ -30,8 +30,8 @@ The dataset used in this project was scraped from LinkedIn and includes the foll
 4.	DAX Calculations: Used DAX formulas to generate insights such as the count of job postings by location and top 10 job title by frequency.
 5.	SQL Analysis: Applied SQL queries to extract key information and filter data for specific trends.
 
-# Visuals and Screenshot
-![Power BI Report Overview](./visuals/Screenshot(1183).png)
+## Visuals and Screenshot
+![Power BI Report Overview](./visuals/Screenshot (1183).png)
 *Figure: Comprehensive Power BI report showcasing LinkedIn data analyst job analysis*
 ## Power BI Report Overview
 The screenshot above is a complete view of the Power BI report created for the LinkedIn Data Analyst job analysis project. This report encompasses the following key sections:
