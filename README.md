@@ -28,4 +28,7 @@ The dataset used in this project was scraped from LinkedIn and includes the foll
 4.	DAX Calculations: Used DAX formulas to generate insights such as the count of job postings by location and top 10 job title by frequency.
 5.	SQL Analysis: Applied SQL queries to extract key information and filter data for specific trends.
 
+# Visuals and Screenshot
+
+
 
