@@ -31,7 +31,7 @@ The dataset used in this project was scraped from LinkedIn and includes the foll
 5.	SQL Analysis: Applied SQL queries to extract key information and filter data for specific trends.
 
 ## Visuals and Screenshot
-![Power BI Report Overview](./visuals/powerbi_report.png)
+![Power BI Report Overview](visuals/powerbi_report .png)
 *Figure: Comprehensive Power BI report showcasing LinkedIn data analyst job analysis*
 ## Power BI Report Overview
 The screenshot above is a complete view of the Power BI report created for the LinkedIn Data Analyst job analysis project. This report encompasses the following key sections:
