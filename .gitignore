@@ -1,0 +1,8 @@
+# Ignore the credentials.env file to keep sensitive data secure
+credentials.env
+
+# Also ignore other sensitive or unnecessary files/folders
+*.env        # Ignore all .env files
+*.log        # Ignore log files
+__pycache__/ # Ignore Python bytecode cache
+*.pyc        # Ignore Python compiled files
